@@ -1,5 +1,5 @@
 # Site settings
-title: Thomas Zühlke
+title: Dannah Ibarra
 description: 'Business Card Page'
 url: 'https://www.zuehlke.cloud'
 baseurl: ''
@@ -9,7 +9,7 @@ google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
+  name: 'Dannah Ibarra'
   email: thomas@zuehlke.cloud
   mastodon: tzuehlke@mstdn.social
   twitter_username: thomzuehlke
